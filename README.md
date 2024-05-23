@@ -1,11 +1,11 @@
 ## Hi there, i'm Hippolyte !
 
-
+<img style="width:100%" src="https://github.com/hippolyte-gander/hippolyte-gander/blob/main/banner-github.png">
 
 - 🔭 I am currently training to become a web developer at ELAN Formation Strasbourg.
 - 🌱 I’m currently learning SQL
 - 📫 How to reach me: linkedin.com/in/hippolyte-gander or hippolyte.gander@gmail.com
-- ⚡ Fun fact: I like board games
+- ⚡ Fun fact:  I enjoy playing board games
 
 Familiar with
 
